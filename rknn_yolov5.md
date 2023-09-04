@@ -3,7 +3,7 @@
 ## Docker way
 先拉取rknn的仓库，如果有请跳过
 ```
-git clone https://github.com/rockchip-linux/rknn-toolkit2/tree/master
+git clone https://github.com/rockchip-linux/rknn-toolkit2.git
 ```
 在Ubuntu上配置docker服务
 ```
